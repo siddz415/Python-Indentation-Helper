@@ -1,0 +1,18 @@
+{
+  "name": "python-indentation-helper",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": {
+    "indent-python": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Siddharth Dravid",
+  "license": "ISC",
+  "description": "An npm package that helps with Python code indentation",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}
